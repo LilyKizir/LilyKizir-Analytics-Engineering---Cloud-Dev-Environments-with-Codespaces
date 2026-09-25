@@ -11,7 +11,7 @@
         		"innoverio.vscode-dbt-power-user",
         		"redhat.vscode-yaml",
         		"Snowflake.snowflake-vsc"
-      		],
+      		]
 		}
   	},
 
