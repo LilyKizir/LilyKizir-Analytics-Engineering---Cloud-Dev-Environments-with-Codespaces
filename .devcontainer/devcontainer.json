@@ -16,8 +16,8 @@
   	},
 
 	"remoteEnv": {
-        "DBT_PROFILES_DIR": "${containerWorkspaceFolder}/transformer"
+        "DBT_PROFILES_DIR": "${containerWorkspaceFolder}/.dbt"
     },
-	
+
 	"updateContentCommand": "pip install --upgrade pip && pip install dbt-snowflake python-dotenv requests snowflake-connector-python cryptography"
 }
